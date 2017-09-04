@@ -1,0 +1,2 @@
+This is a test file for the data in the file we have hadoop and
+data node and name node and the file and the Name node and the data node and hadoop and job tracker and task tracker

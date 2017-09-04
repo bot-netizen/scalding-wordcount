@@ -1,0 +1,11 @@
+run-main com.twitter.scalding.Tool com.twitter.scalding.WordCountJob --local --input doc.txt --output /tmp/notice.tsv
+run-main com.twitter.scalding.Tool com.twitter.scalding.WordCountJob --local --input abc.txt --output /tmp/notice.tsv
+run-main com.twitter.scalding.Tool com.twitter.scalding.WordCountJob --local --input doc.txt --output /tmp/notice.tsv
+:q
+quit
+exit
+run-main com.twitter.scalding.Tool com.twitter.scalding.WordCountJob --local --input doc.txt --output /tmp/notice.tsv
+exit
+run-main com.twitter.scalding.Tool com.twitter.scalding.WordCountJob --local --input doc.txt --output /tmp/notice.tsv
+exit
+run-main com.twitter.scalding.Tool com.twitter.scalding.WordCountJob --local --input doc.txt --output /tmp/notice.tsv
